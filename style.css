@@ -8,7 +8,7 @@ body {
     min-height: 100vh;
 }
 
-.header {
+.header, .hero {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -31,15 +31,6 @@ body {
     display: flex;
     flex-direction: column;
     flex: 1;
-}
-
-.hero {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 32px 128px;
-    background-color: #1F2937;
-    color: white;
 }
 
 .hero-title {
