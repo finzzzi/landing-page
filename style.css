@@ -63,6 +63,17 @@ body {
     border: 1px solid black;
 }
 
+.information {
+    display: flex;
+    flex: 1;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 ul {
     list-style: none;
     padding: 0;
