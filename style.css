@@ -61,7 +61,7 @@ body {
 
 .hero-image {
     width: 600px;
-    height: 200px;
+    height: auto;
     border: 1px solid black;
 }
 
@@ -93,6 +93,9 @@ body {
 .info-content > img {
     width: 200px;
     height: 200px;
+    object-fit: cover;
+    border-radius: 14px;
+    border: 4px #3882F6 solid;
     margin-bottom: 12px;
 }
 
