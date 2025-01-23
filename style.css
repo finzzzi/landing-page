@@ -19,6 +19,7 @@ body {
 
 .hero {
     gap: 24px;
+    padding-bottom: 64px;
 }
 
 .header-left {
