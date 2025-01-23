@@ -12,9 +12,13 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 32px 128px;
+    padding: 32px 300px;
     background-color: #1F2937;
     color: white;
+}
+
+.hero {
+    gap: 24px;
 }
 
 .header-left {
