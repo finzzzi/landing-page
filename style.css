@@ -116,6 +116,36 @@ body {
     margin-right: 400px;
 }
 
+.signup-container {
+    display: flex;
+    justify-content: space-between;
+    background-color: #3882F6;
+    margin: 80px 300px;
+    padding: 48px 128px;
+    border-radius: 10px;
+}
+
+.signup-header {
+    font-size: 24px;
+    font-weight: 700;
+    color: #F9FAF8;
+}
+
+.signup-text {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.signup-button {
+    background-color: transparent;
+    border-color: #F9FAF8;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: 600;
+    color: #F9FAF8;
+    padding: 4px 56px;
+}
+
 .footer {
     display: flex;
     justify-content: center;
